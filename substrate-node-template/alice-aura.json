@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "author_insertKey",
+  "params": [
+    "aura",
+    "donate lawsuit sphere physical liquid meadow table huge fold deliver obtain grape",
+    "0x3419e63b144fac335ed2b415a32c05ed5e7cc22a8642dc280a158bcaf0d6e843"
+  ]
+}

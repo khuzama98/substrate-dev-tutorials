@@ -1,0 +1,10 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "author_insertKey",
+  "params": [
+    "gran",
+    "box grid cash harbor initial limit blood race butter ladder main approve",
+    "0xd8d5298f008697a23c25e0c90007dddad631a8ef4181bd91f8fd8886154fcc2e"
+  ]
+}
